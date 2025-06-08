@@ -81,6 +81,7 @@ for word in test_words:
     print(f"Original: {word} -> Suggested: {autocorrect(word)}")
 ```
 ## OUTPUT:
+![Screenshot 2025-06-08 223426](https://github.com/user-attachments/assets/f0495338-9c46-4473-b0f7-0f69e973a008)
 
 
 ## RESULT:
